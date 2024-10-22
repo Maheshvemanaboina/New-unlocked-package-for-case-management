@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>assign_the_record_Candidate</fullName>
+    <filterScope>Queue</filterScope>
+    <label>assign the record</label>
+    <queue>assign_the_record</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>

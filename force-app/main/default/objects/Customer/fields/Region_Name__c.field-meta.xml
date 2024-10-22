@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Region_Name__c</fullName>
+    <label>Region Name</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>America</fullName>
+                <default>false</default>
+                <label>America</label>
+            </value>
+            <value>
+                <fullName>Asias</fullName>
+                <default>false</default>
+                <label>Asias</label>
+            </value>
+            <value>
+                <fullName>Australia</fullName>
+                <default>false</default>
+                <label>Australia</label>
+            </value>
+            <value>
+                <fullName>china</fullName>
+                <default>false</default>
+                <label>china</label>
+            </value>
+            <value>
+                <fullName>japan</fullName>
+                <default>false</default>
+                <label>japan</label>
+            </value>
+            <value>
+                <fullName>Middle East</fullName>
+                <default>false</default>
+                <label>Middle East</label>
+            </value>
+            <value>
+                <fullName>Naidupeta</fullName>
+                <default>false</default>
+                <label>Naidupeta</label>
+            </value>
+            <value>
+                <fullName>new york</fullName>
+                <default>false</default>
+                <label>new york</label>
+            </value>
+            <value>
+                <fullName>sullurupeta</fullName>
+                <default>false</default>
+                <label>sullurupeta</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

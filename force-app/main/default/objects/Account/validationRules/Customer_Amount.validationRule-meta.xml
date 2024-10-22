@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Customer_Amount</fullName>
+    <active>true</active>
+    <errorConditionFormula>AnnualRevenue   &lt; 25000</errorConditionFormula>
+    <errorDisplayField>AnnualRevenue</errorDisplayField>
+    <errorMessage>only less than twenty five thousand</errorMessage>
+</ValidationRule>
